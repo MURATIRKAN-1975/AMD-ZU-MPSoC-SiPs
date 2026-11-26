@@ -1,4 +1,4 @@
-# AMD-ZU-MPSoC-SiPs
-AMD ZU MPSOC SIPS-ONBOARD PC
-https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html
+AMD UZAY PLATFORM
+https://www.amd.com/en/solutions/aerospace-and-defense/platforms.html#tabs-dcdb811ae9-item-068d824886-tab
+----------------------------------------------------------------------------------------------------------
 
